@@ -1,0 +1,10 @@
+{
+    "editor.fontSize": 16,
+    "workbench.colorTheme": "Palenight Operator",
+    "workbench.preferredDarkColorTheme": "One Dark Pro",
+    "workbench.preferredHighContrastColorTheme": "One Dark Pro",
+    "workbench.preferredHighContrastLightColorTheme": "One Dark Pro",
+    "workbench.preferredLightColorTheme": "One Dark Pro",
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.sideBar.location": "right"
+}
